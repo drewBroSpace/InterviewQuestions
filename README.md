@@ -17,9 +17,8 @@ MyBatis	Linux		Netty
 
 # 关注公众号：Drew小哥，回复：面试题，领取
 
-[![大厂面试题](https://fynotefile.oss-cn-zhangjiakou.aliyuncs.com/fynote/fyfile/10974/1675743291018/9cb286a0a67a452d83ab7fab8c64a88b.jpg"关注公众号：Drew小哥，回复：面试题")](https://fynotefile.oss-cn-zhangjiakou.aliyuncs.com/fynote/fyfile/10974/1675743291018/9cb286a0a67a452d83ab7fab8c64a88b.jpg "关注公众号：架构师专栏，回复：面试题")
 
-[![大厂面试题](https://fynotefile.oss-cn-zhangjiakou.aliyuncs.com/fynote/fyfile/10974/1675743291018/9cb286a0a67a452d83ab7fab8c64a88b.jpg "关注公众号：Drew小哥，回复：面试题")](https://fynotefile.oss-cn-zhangjiakou.aliyuncs.com/fynote/fyfile/10974/1675743291018/9cb286a0a67a452d83ab7fab8c64a88b.jpg "关注公众号：架构师专栏，回复：面试题")
+[![大厂面试题](https://fynotefile.oss-cn-zhangjiakou.aliyuncs.com/fynote/fyfile/10974/1675743291018/9cb286a0a67a452d83ab7fab8c64a88b.jpg "关注公众号：Drew小哥，回复：面试题")](https://fynotefile.oss-cn-zhangjiakou.aliyuncs.com/fynote/fyfile/10974/1675743291018/9cb286a0a67a452d83ab7fab8c64a88b.jpg "关注公众号：Drew小哥，回复：面试题")
 
 
 
