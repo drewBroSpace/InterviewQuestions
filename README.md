@@ -1,37 +1,31 @@
-# IQGuide
 
-#### 介绍
-面试指南
+# 2022年最新版 800+ 道，20多份，面试题，汇总
+# 整理那么辛苦，求个 Star，Fork 谢谢
+最近又赶上跳槽的高峰期，好多粉丝，都问我要有没有最新面试题，我连日加班好多天，终于整理好了，800+ 道，20多份，多份面试题大全，我会持续更新中，马上就会整理更多！
 
-#### 软件架构
-软件架构说明
+# 2022年最新版：题库非常全面，累计 800+ 道
+包括 Java 集合、JVM、多线程、并发编程、设计模式、SpringBoot、SpringCloud、Java、MyBatis、ZooKeeper、Dubbo、Elasticsearch、Memcached、MongoDB、Redis、MySQL、RabbitMQ、Kafka、Linux、Netty、Tomcat、Python、HTML、CSS、Vue、React、JavaScript、Android 大数据、阿里巴巴等大厂面试题等、等技术栈！
 
+16000+ 道，面试题技术大类，索引，直达
+Java	Jvm	Dubbo	MySQL	并发编程
+Spring	SpringBoot	SpringCloud	ZooKeeper	大数据
+Redis	React	RabbitMQ	Elasticsearch	Kafka
+MyBatis	Linux		Netty	
+全部答案，更新日期：2022年5月18日，直接下载吧！
+新增：高清20份，累计 300多 页大厂面试题 PDF(持续更新中)
+新增：高清20份，累计 300多 页大厂面试题 PDF(持续更新中)
 
-#### 安装教程
+# 关注公众号：Drew小哥，回复：面试题，领取
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+[![大厂面试题](https://fynotefile.oss-cn-zhangjiakou.aliyuncs.com/fynote/fyfile/10974/1675743291018/9cb286a0a67a452d83ab7fab8c64a88b.jpg"关注公众号：Drew小哥，回复：面试题")](https://fynotefile.oss-cn-zhangjiakou.aliyuncs.com/fynote/fyfile/10974/1675743291018/9cb286a0a67a452d83ab7fab8c64a88b.jpg "关注公众号：架构师专栏，回复：面试题")
 
-#### 使用说明
-
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### 参与贡献
-
-1.  Fork 本仓库
-2.  新建 Feat_xxx 分支
-3.  提交代码
-4.  新建 Pull Request
+[![大厂面试题](https://fynotefile.oss-cn-zhangjiakou.aliyuncs.com/fynote/fyfile/10974/1675743291018/9cb286a0a67a452d83ab7fab8c64a88b.jpg "关注公众号：Drew小哥，回复：面试题")](https://fynotefile.oss-cn-zhangjiakou.aliyuncs.com/fynote/fyfile/10974/1675743291018/9cb286a0a67a452d83ab7fab8c64a88b.jpg "关注公众号：架构师专栏，回复：面试题")
 
 
-#### 特技
 
-1.  使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2.  Gitee 官方博客 [blog.gitee.com](https://blog.gitee.com)
-3.  你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解 Gitee 上的优秀开源项目
-4.  [GVP](https://gitee.com/gvp) 全称是 Gitee 最有价值开源项目，是综合评定出的优秀开源项目
-5.  Gitee 官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6.  Gitee 封面人物是一档用来展示 Gitee 会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+
+
+
+
+
+

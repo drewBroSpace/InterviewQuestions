@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenRunner">
+    <option name="vmOptions" value="-Xmx2048m -XX:MetaspaceSize=1024m -XX:MaxMetaspaceSize=1024m -Xss2m -Dmaven.test.skip=true -Dmaven.compile.fork=true" />
+  </component>
+  <component name="ProjectRootManager">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
