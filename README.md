@@ -15,7 +15,7 @@ MyBatis	Linux		Netty
 新增：高清20份，累计 300多 页大厂面试题 PDF(持续更新中)
 新增：高清20份，累计 300多 页大厂面试题 PDF(持续更新中)
 
-# 关注公众号：Drew小哥，回复：面试题，领取 PDF
+# 关注公众号：程序员德鲁小哥，回复：面试题，领取 PDF
 
 
 [![大厂面试题](https://fynotefile.oss-cn-zhangjiakou.aliyuncs.com/fynote/fyfile/10974/1675743291018/9cb286a0a67a452d83ab7fab8c64a88b.jpg "关注公众号：Drew小哥，回复：面试题")](https://fynotefile.oss-cn-zhangjiakou.aliyuncs.com/fynote/fyfile/10974/1675743291018/9cb286a0a67a452d83ab7fab8c64a88b.jpg "关注公众号：Drew小哥，回复：面试题")
